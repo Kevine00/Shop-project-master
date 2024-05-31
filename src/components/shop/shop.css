@@ -9,8 +9,8 @@
 /* .............starting section-1..................... */
 .section-1{
     background:#d3d3fd;
-
 }
+
 a{
    color: black;
    text-decoration: none;
@@ -45,8 +45,8 @@ form input{
     width: 19%;
     border-radius: 10px;
     margin-right: 9px;
-   
 }
+
 .btn-shopnow:hover{
    
    background:rgb(164, 164, 255);
